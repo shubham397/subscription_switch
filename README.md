@@ -26,7 +26,7 @@ src/
 
 ```bash
 git clone
-cd step_progress_tracker
+cd subscription_switch
 npm install
 npm start
 ```
